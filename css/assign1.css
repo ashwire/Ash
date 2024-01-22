@@ -1,0 +1,31 @@
+form{
+    background-color: maroon;
+    width: 50%;
+    height:400px;
+    margin: auto;
+    padding: 20px;
+    
+
+}
+label{
+    display: inline-block;
+    width: 60px;
+}
+button{
+    width:52%;
+    height:25px;
+}
+body{
+    background-color: deeppink;
+}
+input[type=text],input[type=date],select{
+    width: 30%;
+    height: 17px;
+    padding-left: 10px;
+    margin-left: 30px;
+    display: inline-block;
+}
+select{
+    height:20px ;
+    width:30% ;
+}

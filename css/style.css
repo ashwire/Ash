@@ -1,0 +1,32 @@
+p{
+    font-size: 20px;
+
+    font-weight: bold;
+}
+
+#main1{
+    display: grid;
+}
+.imageparagragh1{
+    display: flex;
+}
+.imageparagragh2{
+    display: flex;
+}
+.imageparagragh3{
+    display: flex;
+}
+img{
+    height: 250px;
+    width: 250px;
+    margin-bottom: 30px;
+}
+p{
+    margin-left: 20px;
+}
+.headind1{
+    color: darkolivegreen;
+}
+body{
+    background-image: url("assets/hooper.jpeg");
+}
